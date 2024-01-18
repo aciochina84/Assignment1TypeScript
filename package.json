@@ -1,0 +1,12 @@
+{
+  "name": "my_tspackage",
+  "version": "1.0.0",
+  "description": "typescript project 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "author": "Andrei",
+  "license": "ISC"
+}
